@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PascalRdl
 - 👀 I’m interested in Photography, Gaming and coding
-- 🌱 I’m currently learning Python and c
+- 🌱 I’m currently learning Python and C++
 - ⚡ Fun fact: I hate my life :D
 
 <!---
